@@ -1,7 +1,7 @@
 # CN Automation Scale
 
 ## Descrição
-O CN Automation Scale é um projeto em Node.js que automatiza o processo de alocação de voluntários para a escala de produção na empresa CN. Este sistema simplifica a tarefa de designar voluntários para diferentes turnos e áreas de produção, levando em consideração o mês atual e a disponibilidade dos voluntários.
+O CN Automation Scale é um projeto em Node.js que automatiza o processo de alocação de voluntários para a escala de produção na Igreja CN Eusébio. Este sistema simplifica a tarefa de designar, levando em consideração o mês atual e a disponibilidade dos voluntários.
 
 ## Funcionalidades Principais
 - **Geração Automática de Escala:** Gera automaticamente uma escala de voluntários para o mês atual, considerando a disponibilidade e as preferências dos voluntários.
